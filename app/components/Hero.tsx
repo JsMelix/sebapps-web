@@ -9,7 +9,7 @@ export default function Hero() {
         muted
         className="absolute z-0 w-auto min-w-full min-h-full max-w-none"
       >
-          <source src="https://drive.google.com/uc?export=download&id=1sWSR4ZXu8GCOReyTxqAM2WdEr0osTsH7" type="video/mp4"></source>
+        <source src="/hero-video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50 z-10"></div>
